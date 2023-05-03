@@ -2,7 +2,7 @@
 
 <html>
   
-  <head> <title> computo</title>
+  <head> 
   </head>
   <body>
     <h3> Computo en la nube</h3>
